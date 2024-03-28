@@ -1,8 +1,12 @@
 import React from 'react';
-import 'SearchButton.css';
+import './SearchButton.css';
 
 function SearchButton(){
-    return
+    return (
+        <button className={'search_btn'}>
+            Найти
+        </button>
+    )
 }
 
 export default SearchButton;

@@ -1,0 +1,14 @@
+.login_btn{
+    width: 113px;
+    background-color: #E5261E;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Rubik-local Medium';
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+    padding-block: 9px;
+}
+.login_btn:hover{
+    background-color: #CC221B;
+}

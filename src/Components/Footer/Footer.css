@@ -1,0 +1,19 @@
+footer{
+    background-color: #F2F2F2;
+    padding: 22px 0 25px;
+    font-size: 16px;
+    font-family: 'Rubik-local Regular';
+}
+footer .container{
+    display: flex;
+    gap: 40px;
+}
+.tel{
+    margin-top: 6px;
+}
+.other_link{
+    color: #1F4766;
+    font-family: 'Rubik-local Medium';
+    font-size: 16px;
+    margin-top: 6px;
+}

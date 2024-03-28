@@ -1,0 +1,10 @@
+.search_input{
+    font-size: 16px;
+    font-family: 'Rubik-local Regular';
+    border-bottom: 1px solid #333333;
+    padding-bottom: 6px;
+    margin-right: 32px;
+}
+.search_input::placeholder{
+    color: #828282;
+}

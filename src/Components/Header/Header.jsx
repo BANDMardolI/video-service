@@ -5,13 +5,14 @@ import SearchEngine from "../UI/SearchEngine/SearchEngine";
 import LoginButton from "../UI/LoginButton/LoginButton";
 
 
+
 function Header(){
     return (
         <header>
             <Logo />
             <SearchEngine />
             <LoginButton />
-        </header>
+        </header> 
     )
 }
 

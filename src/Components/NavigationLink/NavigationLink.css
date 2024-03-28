@@ -1,0 +1,9 @@
+a{
+    color: #333333;
+    font-family: 'Rubik-local Medium';
+    font-size: 28px;
+}
+.active{
+    color: #E5261E;
+    border-bottom: 1px solid #E5261E;
+}

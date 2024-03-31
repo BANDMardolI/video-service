@@ -1,0 +1,13 @@
+.novelty{
+    margin-top: 16px;
+    cursor: pointer;
+    
+}
+.novelty img{
+    border-radius: 10px;
+}
+.novelty__info_description{
+    font-family: 'Rubik-local Regular';
+    font-size: 20px;
+    width: 280px;
+}

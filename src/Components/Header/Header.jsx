@@ -3,6 +3,7 @@ import './Header.css';
 import Logo from "../Logo/Logo";
 import SearchEngine from "../UI/SearchEngine/SearchEngine";
 import LoginButton from "../UI/LoginButton/LoginButton";
+import Modal from '../Modal/Modal';
 
 
 
@@ -12,6 +13,7 @@ function Header(){
             <Logo />
             <SearchEngine />
             <LoginButton />
+            <Modal />
         </header> 
     )
 }

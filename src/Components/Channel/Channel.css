@@ -1,0 +1,31 @@
+.channel{
+    display: flex;
+    gap: 143px;
+    padding: 21px 143px;
+    background-color: #F2F2F2;
+    margin-top: 16px;
+
+}
+.channel__image_container{
+    display: flex;
+    align-items: center;
+}
+.channel__image_container{
+    width: 114px;
+    display: flex;
+    justify-content: center;
+}
+.channel_name{
+    color: #333333;
+    font-family: 'Rubik-local Medium';
+    font-size: 20px;
+}
+.channel__info_container p{
+    margin-top: 12px;
+    color: #333333;
+    font-family: 'Rubik-local Regular';
+    font-size: 16px;
+}
+.translation_1{
+    color: #E5261E !important;
+}

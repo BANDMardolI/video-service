@@ -1,0 +1,38 @@
+:root{
+    --comedies-bg: linear-gradient(145deg, #f2c94c 0.96%, #f29a4a 100%);
+    --dramas-bg:linear-gradient(145deg, #f2994a 0.96%, #eb5757 100%);
+    --fantasy-bg: linear-gradient(145deg, #56ccf2 0.96%, #2f80ed 100%);    ;
+    --horrors-bg: linear-gradient(145deg, #828282 0.96%, #333 100%);
+}
+.genre__bg_container{
+    width: 280px;
+    height: 208px;
+    border-radius: 6px;
+    box-shadow: inset 0 0 16px 0 rgba(0, 0, 0, 0.15);
+    opacity: 0.8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Rubik-local Regular';
+    font-size: 20px;
+    color: #fff;
+}
+.genre__title{
+    margin-top: 32px;
+}
+.genre__bg_container:hover{
+    opacity: 1;
+}
+.comedies_bg{
+    background: var(--comedies-bg);
+}
+.dramas_bg{
+    background: var(--dramas-bg);
+}
+.fantasy_bg{
+    background: var(--fantasy-bg);
+}
+.horrors_bg{
+    background: var(--horrors-bg);
+}
